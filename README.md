@@ -26,6 +26,7 @@
   ● Euclidean 
   ● Hamming
   -------?-------
+  
 5. Which of the following options is true about the k-NN algorithm?
   ● it can be used for classification 
   ● it can be used for regression
